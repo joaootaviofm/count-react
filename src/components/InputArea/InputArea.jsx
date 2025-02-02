@@ -1,7 +1,11 @@
+import './InputArea.css'
+
 function InputArea(){
     return (
         <div>
-            test
+            <div className="container">
+                a
+            </div>
         </div>
     )
 }
